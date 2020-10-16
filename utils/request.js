@@ -10,4 +10,4 @@ const instance = axios.create({
     baseURL: 'https://conduit.productionready.io'
 });
 
-export default instance;
+export default instance; 
